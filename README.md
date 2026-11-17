@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # MiniRacer
 
 [![Build Status](https://travis-ci.org/rubyjs/mini_racer.svg?branch=master)](https://travis-ci.org/rubyjs/mini_racer)
@@ -468,4 +470,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/rubyjs
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
